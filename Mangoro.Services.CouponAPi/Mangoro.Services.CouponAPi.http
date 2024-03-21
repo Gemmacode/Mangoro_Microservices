@@ -1,0 +1,6 @@
+@Mangoro.Services.CouponAPi_HostAddress = http://localhost:5119
+
+GET {{Mangoro.Services.CouponAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
